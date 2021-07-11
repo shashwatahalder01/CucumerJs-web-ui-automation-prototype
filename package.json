@@ -1,0 +1,15 @@
+{
+  "name": "cucumerjs-web-ui-automation-prototype",
+  "version": "1.0.0",
+  "description": "web ui automation using cucumberjs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js"
+  },
+  "keywords": [],
+  "author": "sh",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^7.3.0"
+  }
+}
